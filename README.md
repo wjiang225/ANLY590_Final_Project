@@ -2,4 +2,5 @@
 
 Group members: Xinya Xu, Leilin Wang, Wenhao Jiang
 
-Dataset:
+Dataset: https://drive.google.com/drive/folders/1VgBBxd8pRpXeZfoWnrYGLESUpaS7OT_x?usp=sharing
+(Please place data in the folders with corresponding names)
